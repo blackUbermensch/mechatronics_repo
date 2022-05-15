@@ -10,21 +10,21 @@ The two wheeled autonomous self-balancing vehicle original prototype was develop
 The main objective of this project was improving on the previous designs done by the prior group in the design and implementation of a two wheeled self-balancing non-autonomous vehicle prototype. The current team was tasked with the following:
 
 * Hardware
-  o Design and install new power amplifier circuit.
-  o Design and install new mounts for DC motors.
-  o Procure and test new charger for the onboard batteries.
-  o Procure and install new motors.
-  o Test the rest of the hardware systems within the prototype.
+  - Design and install new power amplifier circuit.
+  - Design and install new mounts for DC motors.
+  - Procure and test new charger for the onboard batteries.
+  - Procure and install new motors.
+  - Test the rest of the hardware systems within the prototype.
   
 * Software
-  o Install NI LabVIEW.
-  o Install myRIO drivers.
-  o Create dashboard in LabVIEW for controlling motors and reading sensor data.
-  o Verify wireless connection stable wireless connection.
+  - Install NI LabVIEW.
+  - Install myRIO drivers.
+  - Create dashboard in LabVIEW for controlling motors and reading sensor data.
+  - Verify wireless connection stable wireless connection.
   
 * Mechanical system derivation and controller setup 
-  o Derive the Lagrangian mechanics of the system.
-  o Develop a control strategy.
+  - Derive the Lagrangian mechanics of the system.
+  - Develop a control strategy.
 	
 ## Technologies
 Project is created with:
