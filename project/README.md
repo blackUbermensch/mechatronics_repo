@@ -35,5 +35,5 @@ Project is created with:
 
 
 ## Sources
-View the full report the [manual here](https://drive.google.com/drive/folders/1hvE5-GHNWjqRfQ4K0hiLiVEb_eAEkb54?usp=sharing).
+View the full report/ [manual here](https://drive.google.com/drive/folders/1hvE5-GHNWjqRfQ4K0hiLiVEb_eAEkb54?usp=sharing).
 This project is a requirement for the MEGR7222 Mechatronics Course at the University of North Carolina, Charlotte.
